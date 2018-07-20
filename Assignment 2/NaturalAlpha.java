@@ -3,7 +3,7 @@ public class NaturalAlpha
   public static void main(String[] args)
   {
     int i;
-    for(i=1;i<=50;i++)
+    for(i=1;i<=50;i++) // ERROR in logic. abc and xyz are interchanged
     {
      if(i%3==0)
      {
